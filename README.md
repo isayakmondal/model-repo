@@ -1,7 +1,4 @@
 # model-repo
-<p align="center">
-<img src="https://res.cloudinary.com/atapas/image/upload/v1632156569/demos/GitHub-Projects_tyxnkl.png" alt="name"/>
-<p/>
 
 <h4 align="center">Best practices to gain maximum engagements, contributions, and acknowledgements(like stars, sponsors)</h4>
 
@@ -92,13 +89,12 @@ npm run dev # or, yarn dev
 That's All!!! Now open [localhost:3000](http://localhost:3000/) to see the app.
 
 # 🍔 Built With
-- [Technology 1](https://tapasadhikary.com)
-- [Technology 2](https://tapasadhikary.com)
-- [Technology 3](https://tapasadhikary.com)
-- [Technology 4](https://tapasadhikary.com)
-- [Technology 5](https://tapasadhikary.com)
-- [Technology 6](https://tapasadhikary.com)
-- [Technology 7](https://tapasadhikary.com)
+- [Technology 1](https://example.com)
+- [Technology 2](https://example.com)
+- [Technology 3](https://example.com)
+- [Technology 4](https://example.com)
+- [Technology 5](https://example.com)
+
 
 # 🛡️ License
 This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
